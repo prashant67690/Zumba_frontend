@@ -1,0 +1,32 @@
+@import "color";
+
+.login {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  > img{
+    height:20rem;
+    width: 20rem;
+  }
+  > button {
+    background-color: white;
+    color: $lightdark;
+    border: 1px solid #444;
+    border-radius: 10px;
+    padding: 1rem 2rem;
+    font-size: 1.1rem;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+
+    svg {
+      margin-left: 1rem;
+    }
+
+    &:hover {
+      color: $dark;
+    }
+  }
+}
