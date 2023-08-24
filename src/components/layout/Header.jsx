@@ -6,7 +6,7 @@ import {FaUser} from "react-icons/fa";
 import {motion} from "framer-motion";
 
 
-function Header({isAuthenthicated=false}) {
+function Header({isAuthenthicated}) {
   return (
     <nav>
         <motion.div
