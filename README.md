@@ -1,6 +1,5 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 [backend](https://github.com/prashant67690/Zumba_Backend_Code)
 
 ## Available Scripts
